@@ -7,7 +7,7 @@ import Products from './pages/Products';
 import Support from './pages/Support';
 import Contact from './pages/Contact';
 import Cart from './pages/Cart';
-import Productitem from './pages/ProductItem';
+import Productitem from './pages/Productitem';
 
 
 function App() {
