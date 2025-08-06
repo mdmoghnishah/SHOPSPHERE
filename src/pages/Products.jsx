@@ -4,7 +4,7 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 import { IoMdSearch } from "react-icons/io";
 import Product1 from '../assets/Product1.jpg'
-import Product2 from '../assets/product2.jpg'
+import Product2 from '../assets/Product2.jpg'
 import Product3 from '../assets/Product3.jpg'
 import Update from '../components/Update';
 import { useNavigate } from 'react-router-dom';

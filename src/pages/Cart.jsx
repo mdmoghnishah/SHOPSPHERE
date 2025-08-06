@@ -1,9 +1,9 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import product1 from "../assets/product1.jpg";
-import product2 from "../assets/product2.jpg";
-import product3 from "../assets/product3.jpg";
+import product1 from "../assets/Product1.jpg";
+import product2 from "../assets/Product2.jpg";
+import product3 from "../assets/Product3.jpg";
 import { Trash2, Minus, Plus } from "lucide-react";
 
 const cartItems = [

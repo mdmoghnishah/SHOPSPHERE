@@ -4,7 +4,7 @@ import Image from '../assets/discoverpro.jpg';
 import Footer from '../components/Footer';
 import Updates from '../components/Update';
 import Product1 from '../assets/Product1.jpg'
-import Product2 from '../assets/product2.jpg'
+import Product2 from '../assets/Product2.jpg'
 import Product3 from '../assets/Product3.jpg'
 import { ArrowRight } from 'lucide-react';
 
